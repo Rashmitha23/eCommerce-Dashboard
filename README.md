@@ -6,7 +6,7 @@ A **comprehensive eCommerce Product Performance Dashboard** created using **Exce
 
 ---
 
-## 📌 Top Insights & Trends  
+## 📌 Top Insights & Trends   
 
 ### 🚀 **Top Performing Products by Sales**  
 - **Biography** and **Mountain Bike** lead in sales, demonstrating strong demand.  
